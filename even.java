@@ -6,9 +6,9 @@ public class even {
         int x = sc.nextInt();
 
         if(x % 2 == 0){
-            System.out.println("Even");
+            System.out.println("Even:");
          } else {
-                System.out.println("odd");
+                System.out.println("odd:");
 
             }
         
